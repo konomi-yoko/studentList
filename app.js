@@ -1,4 +1,6 @@
-let studentList = [
+console.log();
+
+let studentList =[
   {name:'えりか',from:'和歌山県',hobby:'ウクレレ'},
   {name:'めぐ',from:'長野',hobby:'サーフィン'},
   {name:'ゆたか',from:'千葉',hobby:'映画'},
@@ -10,3 +12,7 @@ let studentList = [
   {name:'ゆうこりん',from:'沖縄',hobby:'写真'},
   {name:'ルイス',from:'ペルー',hobby:'世間話'}
 ];
+
+console.log(studentList[0]['name']);
+console.log(studentList[3]['from']);
+console.log(studentList[4]['hobby']);
