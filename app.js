@@ -16,3 +16,4 @@ let studentList =[
 console.log(studentList[0]['name']);
 console.log(studentList[3]['from']);
 console.log(studentList[4]['hobby']);
+
